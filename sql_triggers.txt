@@ -1,0 +1,6 @@
+-- SQL TRIGGERS
+
+On some event, do these actions. 
+EVENT: before/after insert/update/delete on some table 
+ACTION: any SQL statement 
+-- On same table or on any other table in the database

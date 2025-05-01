@@ -1,6 +1,7 @@
+
 .nullvalue -NULL-
 
-CREATE TABLE Species (
+CREATE TABLE Species2 (
     Code VARCHAR PRIMARY KEY,
     Common_name VARCHAR UNIQUE NOT NULL,
     Scientific_name VARCHAR, -- can't make NOT NULL, missing data in some rows
